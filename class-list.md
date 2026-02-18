@@ -10,4 +10,4 @@ Format your name with a - at the beginning of the line, like this:
 -->
 
 ## Spring 2026 Students
-
+- Lia Hood
