@@ -13,3 +13,4 @@ Format your name with a - at the beginning of the line, like this:
 - Lia Hood
 - Kennedy Miller
 - Will Strasser
+- Ross Farhi
