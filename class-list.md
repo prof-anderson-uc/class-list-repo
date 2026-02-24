@@ -14,3 +14,4 @@ Format your name with a - at the beginning of the line, like this:
 - Kennedy Miller
 - Will Strasser
 - Carter Kowalak
+- Kelsey Adams
